@@ -1,4 +1,5 @@
-/*All values are in meters*/
+//Authors : Sumukha RM , Naresh V
+//All values are in meters
 
 #include<graphics.h>
 #include <stdio.h>
